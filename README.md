@@ -7,6 +7,15 @@ FEATURES :
 > Change IPV6/4
 > Clean Traces
 
+GAMES :
+
+> Fortnite
+> Call Of Duty MW3/2
+> Apex Legends
+> Fivem
+> Valorant
+> Nova ( Soon )
+
 SCREENS :
 
 ![image](https://github.com/BrightEnginedev/BrightSpoofer/assets/161945267/fe7e4d3d-8947-407f-accf-90693258a693)
